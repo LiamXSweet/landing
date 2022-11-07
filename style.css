@@ -180,7 +180,7 @@
     width: 100%;
     background: url('images/websitesbackground.jpg');
     border-left: 2px solid black;
-    animation: typing 3.2s steps(15) infinite;
+    animation: typing 5.2s steps(20) infinite;
 }
 @keyframes typing {
     100% {
@@ -219,7 +219,7 @@
 }
 @keyframes slide {
     100% {
-        top: -160px;
+        top: -160px;    
     }
 }
 .dynamic-txts li span {
